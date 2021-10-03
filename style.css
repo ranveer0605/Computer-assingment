@@ -1,0 +1,34 @@
+h1 {
+    margin-left: 600px;
+    color: black;
+}
+
+.img1 {
+    margin-left: 580px;
+    scale: 0.2;
+}
+
+.img2 {
+    margin-left: 450px;
+    scale: 0.2;
+}
+
+.img3 {
+    margin-left: 450px;
+    scale: 0.2;
+}
+
+.grid {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.grid2 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.grid3 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
